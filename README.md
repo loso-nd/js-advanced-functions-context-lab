@@ -102,7 +102,7 @@ the function returns.
     * `hour`: Derived from the argument
     * `date`: Derived from the argument
 
-### `hoursWorkedOnDate`
+### `hoursWorkedOnDate` 
 
 * **Argument(s)**
   * A date of the form `"YYYY-MM-DD"`
